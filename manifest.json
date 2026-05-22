@@ -1,0 +1,19 @@
+{
+  "name": "Golden Bull",
+  "short_name": "Golden Bull",
+  "theme_color": "",
+  "background_color": "#07171E",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1779437744-favicon.svg",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
